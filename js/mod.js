@@ -1,13 +1,13 @@
 let modInfo = {
-	name: "The ??? Tree",
+	name: "Kryo's Upgrade Tree",
 	author: "nobody",
-	pointsName: "points",
+	pointsName: "Skill",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
-	offlineLimit: 1,  // In hours
+	offlineLimit: 720,  // In hours
 }
 
 // Set your version in num and name
